@@ -1,0 +1,17 @@
+.register {
+  height: 100vh;
+  display: flex;
+  background-color: #5390d9;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.base {
+  display: flex;
+  justify-content: space-between;
+}
+
+.base * {
+  margin: 5px;
+}

@@ -1,0 +1,12 @@
+.activate {
+  height: 100vh;
+  display: flex;
+  background-color: #4ea8de;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.activate * {
+  margin: 5px;
+}
